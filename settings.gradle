@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Moja pierwsza aplikacja"
 include ':app'
+include ':myapplication'
